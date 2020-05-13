@@ -1,0 +1,15 @@
+void application(char*);
+void presentation(char*);
+void session(char*);
+void transport(char*);
+void network(char*);
+void datalink(char*);
+void physical(char*);
+void recp(char*);
+void recdata(char*);
+void recnet(char*);
+void rectrans(char*);
+void other(char*);
+void recses(char*);
+void recpre(char*);
+void recapp(char*);
